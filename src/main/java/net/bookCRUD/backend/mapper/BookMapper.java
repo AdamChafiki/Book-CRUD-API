@@ -1,8 +1,8 @@
-package net.employercrud.backend.mapper;
+package net.bookCRUD.backend.mapper;
 
 import lombok.RequiredArgsConstructor;
-import net.employercrud.backend.dto.BookDTO;
-import net.employercrud.backend.entity.Book;
+import net.bookCRUD.backend.dto.BookDTO;
+import net.bookCRUD.backend.entity.Book;
 import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Component;
 

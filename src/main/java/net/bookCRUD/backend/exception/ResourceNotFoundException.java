@@ -1,4 +1,4 @@
-package net.employercrud.backend.exception;
+package net.bookCRUD.backend.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
     public ResourceNotFoundException(String message) {

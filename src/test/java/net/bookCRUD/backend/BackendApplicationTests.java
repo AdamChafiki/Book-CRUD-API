@@ -1,4 +1,4 @@
-package net.employercrud.backend;
+package net.bookCRUD.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

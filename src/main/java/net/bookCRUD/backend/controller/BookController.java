@@ -1,9 +1,9 @@
-package net.employercrud.backend.controller;
+package net.bookCRUD.backend.controller;
 
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
-import net.employercrud.backend.dto.BookDTO;
-import net.employercrud.backend.service.BookService;
+import net.bookCRUD.backend.dto.BookDTO;
+import net.bookCRUD.backend.service.BookService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

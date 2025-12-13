@@ -1,4 +1,4 @@
-package net.employercrud.backend.exception;
+package net.bookCRUD.backend.exception;
 
 import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;

@@ -1,6 +1,6 @@
-package net.employercrud.backend.service;
+package net.bookCRUD.backend.service;
 
-import net.employercrud.backend.dto.BookDTO;
+import net.bookCRUD.backend.dto.BookDTO;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package net.employercrud.backend.entity;
+package net.bookCRUD.backend.entity;
 
 
 import jakarta.persistence.*;

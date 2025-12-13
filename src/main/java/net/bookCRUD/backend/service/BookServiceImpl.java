@@ -1,11 +1,11 @@
-package net.employercrud.backend.service;
+package net.bookCRUD.backend.service;
 
 import lombok.RequiredArgsConstructor;
-import net.employercrud.backend.exception.ResourceNotFoundException;
-import net.employercrud.backend.dto.BookDTO;
-import net.employercrud.backend.entity.Book;
-import net.employercrud.backend.mapper.BookMapper;
-import net.employercrud.backend.repository.BookRepository;
+import net.bookCRUD.backend.exception.ResourceNotFoundException;
+import net.bookCRUD.backend.dto.BookDTO;
+import net.bookCRUD.backend.entity.Book;
+import net.bookCRUD.backend.mapper.BookMapper;
+import net.bookCRUD.backend.repository.BookRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

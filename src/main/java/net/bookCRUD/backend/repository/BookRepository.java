@@ -1,6 +1,6 @@
-package net.employercrud.backend.repository;
+package net.bookCRUD.backend.repository;
 
-import net.employercrud.backend.entity.Book;
+import net.bookCRUD.backend.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

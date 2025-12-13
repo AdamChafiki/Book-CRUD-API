@@ -1,4 +1,4 @@
-package net.employercrud.backend.dto;
+package net.bookCRUD.backend.dto;
 
 import jakarta.validation.constraints.*;
 import lombok.*;
